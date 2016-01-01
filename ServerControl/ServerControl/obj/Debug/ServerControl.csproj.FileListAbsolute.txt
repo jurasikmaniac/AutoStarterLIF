@@ -1,0 +1,9 @@
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\bin\Debug\ServerControl.exe.config
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\bin\Debug\ServerControl.exe
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\bin\Debug\ServerControl.pdb
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Debug\ServerControl.csprojResolveAssemblyReference.cache
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Debug\ServerControl.Form1.resources
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Debug\ServerControl.Properties.Resources.resources
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Debug\ServerControl.csproj.GenerateResource.Cache
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Debug\ServerControl.exe
+D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Debug\ServerControl.pdb
