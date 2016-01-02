@@ -6,3 +6,8 @@ D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Release\ServerControl.Pro
 D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Release\ServerControl.csproj.GenerateResource.Cache
 D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Release\ServerControl.exe
 D:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Release\ServerControl.pdb
+d:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Release\ServerControl.csprojResolveAssemblyReference.cache
+d:\REPS\AutoStarterLIF\ServerControl\ServerControl\bin\Release\ServerControl.exe.manifest
+d:\REPS\AutoStarterLIF\ServerControl\ServerControl\bin\Release\ServerControl.application
+d:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Release\ServerControl.exe.manifest
+d:\REPS\AutoStarterLIF\ServerControl\ServerControl\obj\Release\ServerControl.application
